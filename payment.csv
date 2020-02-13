@@ -1,0 +1,14 @@
+name,email,mobile,Add1,Add2,Add3,Pincode,Mode,Payment_Mode,Price
+"Sukhman Singh",sukhman@gmail.com,9815556677,"Room No. 176","Hostel H5","NIT Kurukshetra",136119,rent,Paytm,NULL
+"Sukhman Singh",sukhman@gmail.com,9815556677,"Room No. 176","Hostel H5","NIT Kurukshetra",136119,rent,Paytm,NULL
+"Sukhman Singh",sukhman@gmail.com,9815556677,"Room No. 176","Hostel H5","NIT Kurukshetra",136119,buy,Paytm,NULL
+"Sukhman Singh",sukhman@gmail.com,9815556677,"Room No. 176","Hostel H5","NIT Kurukshetra",136119,rent,NULL,NULL
+"Sukhman Singh",sukhman@gmail.com,9815556677,"Room No. 176","Hostel H5","NIT Kurukshetra",136119,rent,Paytm,22000
+"Sukhman Singh",sukhman@gmail.com,9815556677,"Room No. 176","Hostel H5","NIT Kurukshetra",136119,rent,Paytm,1100
+"Sukhman Singh",sukhman@gmail.com,9815556677,"Room No. 176","Hostel H5","NIT Kurukshetra",136119,rent,Paytm,1100
+"Sukhman Singh",sukhman@gmail.com,9815556677,"Room No. 176","Hostel H5","NIT Kurukshetra",136119,rent,Paytm,1100
+TARUN,tarunmadan@gmail.com,7654345678,hjgdg,",jbhcgf","b,bg",110017,rent,Paytm,2750
+TARUN,tarunmadan@gmail.com,7654345678,hjgdg,",jbhcgf","b,bg",110017,rent,Paytm,10650
+"TARUN MADAN",tarunmadan@gmail.com,7867567,ghg,gyghh,cvghb,110019,buy,NULL,68000
+"LIAM PAYNE",liampayne@gmail.com,876857687,eddefe,dvdd,dfd,110018,rent,Paytm,53650
+Sizman,siza@gmail.com,9815919951,saharanpur,"uttar pradesh",,247001,rent,Paytm,14500

@@ -1,0 +1,13 @@
+id,fname,lname,email,telephone,password,cpassword,flag
+1,TARUN,MADAN,tarunmadan@gmail.com,965678586,tarunm,tarunm,true
+2,Ranjeet,Patel,ranjeet@gmail.com,8878487363,123,123,true
+3,qsdedeedcew,dcde,eed@dede,wswsws,wdwswdw,edwdewd,true
+4,qsdedeedcew,dcde,eed@dede,wswsws,fghfg,hgfh,true
+5,Sukhman,Sins,sins@gmail.com,75428675435,sins,sins,true
+6,"Nitesh ",Dangi,dangi@gmail.com,65434567,dangi,dangi,true
+7,rahul,sharma,rahul@gmail.com,367898,Rahul1234,Rahul1234,true
+8,JOHN,SIR,johnsirrocks@gmail.com,87654324567,John@123,John@123,true
+9,Sukhman,Singh,sukhman07@gmail.com,9815566775,Sukhi@07,Sukhi@07,true
+18,PREETESH,yadav,pky@gmail.com,564781234,Preetesh@123,Preetesh@123,true
+19,Tarun,Yadav,tarunyadav@gmail.com,123456789,Tarun@123,Tarun@123,true
+20,SIZMAN,KAUR,siza@gmail.com,2345678,Siza@12345,Siza@12345,true
